@@ -1,0 +1,13 @@
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.PersonControl.resources
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.EmployeeControl.resources
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Vadim\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ReaderControl.resources
